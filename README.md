@@ -9,7 +9,7 @@ Coming soon.
 <custom-element-demo>
   <template>
     <link rel="import" href="eds-components.html">
-    <eds-compomnents></eds-compomnents>
+    <eds-components></eds-components>
   </template>
 </custom-element-demo>
 ```
