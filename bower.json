@@ -1,0 +1,17 @@
+{
+  "name": "eds-components",
+  "description": "ServiceNow Emotive Design System",
+  "main": "index.js",
+  "authors": [
+    "Martin Wragg <mdwragg@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/emotivedesignsystem/eds-components",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
