@@ -1,6 +1,6 @@
 {
   "name": "@emotive/eds-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ServiceNow Emotive Design System",
   "main": "index.js",
   "scripts": {
